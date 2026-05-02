@@ -1,0 +1,3 @@
+/**
+ * TransactionResponse -> lo que devuelve
+ */
